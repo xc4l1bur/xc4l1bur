@@ -1,78 +1,77 @@
+# 🛡️ Rodrigo F. Guzmán Ramos
+### **CISO - Chief Information Security Officer @ Dreams S.A. | Senior Security Researcher**
+*Líder estratégico en Ciberseguridad con más de 15 años de trayectoria en protección de activos digitales y continuidad operativa.*
 
-# 🛡️ Rodrigo Fernando Guzmán Ramos
-### **CISO | Cybersecurity Expert | Software Architect | Academic**
-*Protegiendo activos digitales, mitigando riesgos y garantizando la continuidad operacional con visión estratégica y rigor técnico.*
-
----
-
-## 👨‍💻 Perfil Profesional
-Profesional con más de **15 años de experiencia** liderando la estrategia de ciberseguridad, riesgos tecnológicos y cumplimiento normativo. Actualmente me desempeño como **Jefe Corporativo de Seguridad de la Información (CISO) en Dreams S.A.**, supervisando operaciones críticas en Chile, Argentina, Perú y Panamá.
-
-Mi enfoque combina la gestión ejecutiva de seguridad con un sólido background en ingeniería de software y automatización (Python, C#, SQL, n8n), permitiéndome no solo definir políticas, sino también supervisar e implementar soluciones técnicas de alta complejidad.
+[![](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rguzmanramos) 
+[![](https://img.shields.io/badge/Credentials-Credly-orange?style=for-the-badge&logo=badgr)](https://www.credly.com/users/rodrigo-guzman.0baaf1dc)
+[![](https://img.shields.io/badge/Research-ResearchGate-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/publication/378229228)
 
 ---
 
-## 🎓 Formación Académica (Seniority Académico)
-*Poseo una base académica robusta con múltiples maestrías y diplomados enfocados en la alta gestión y la técnica profunda.*
+## 👨‍💼 Perfil Ejecutivo
+[cite_start]Profesional con una sólida trayectoria respaldada por múltiples maestrías en Ciberseguridad e Ingeniería Informática[cite: 7]. [cite_start]Como **CISO de Dreams S.A.**, lidero la estrategia de seguridad para Casinos y Hoteles en **LATAM** (Chile, Argentina, Perú y Panamá).
 
-| Grado / Diplomado | Institución | Foco Principal |
+* [cite_start]**Estrategia:** Implementación de Gobiernos de Ciberseguridad y Gestión de Riesgos[cite: 7, 27].
+* [cite_start]**Cumplimiento:** Implementador Líder **ISO 27001** e **ISO 27.035**[cite: 8, 25, 26].
+* [cite_start]**Técnica:** Experto en **Ethical Hacking**, Inteligencia de Amenazas y Ciberdefensa[cite: 7, 28, 29].
+* [cite_start]**Academia:** Docente experto en Ciberseguridad y Desarrollo de Software Seguro[cite: 35, 36, 39].
+
+---
+
+## 🛠️ Stack Tecnológico Profesional
+
+### 🛡️ Ciberseguridad & Sistemas
+[![Skills](https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,apple,powershell,cloudflare)](https://skillicons.dev)
+
+### 💻 Ingeniería de Software & Datos
+[![Skills](https://skillicons.dev/icons?i=python,cs,net,django,html,css,postgres,mysql)](https://skillicons.dev)
+
+### 🚀 Infraestructura & Tooling
+[![Skills](https://skillicons.dev/icons?i=docker,azure,git,github,visualstudio,vscode,postman,wordpress)](https://skillicons.dev)
+
+---
+
+## 🎓 Seniority Académico & Certificaciones
+
+### **Maestrías (Masters)**
+* [cite_start]**Máster en Ciberseguridad** – Universidad Adolfo Ibáñez[cite: 17].
+* [cite_start]**Máster en Técnicas de Seguridad Informática** – Universidad de Barcelona, España[cite: 16].
+* [cite_start]**Máster en Ingeniería en Informática** – Universidad de La Frontera, Chile[cite: 15].
+* [cite_start]**Máster en Planificación y Control de Gestión** – Universidad Mayor, Chile[cite: 14].
+
+### **Diplomados de Especialización**
+* [cite_start]**Ethical Hacking** & **Gestión de Ciberseguridad** – Universidad Adolfo Ibáñez[cite: 21, 22].
+* [cite_start]**Gestión Técnica de la Ciberseguridad** – Pontificia Universidad Católica de Chile[cite: 20].
+* [cite_start]**Gobierno de Ciberseguridad** – Universidad de Santiago de Chile[cite: 18].
+* [cite_start]**Ciberseguridad y Ciberdefensa** – Universidad Autónoma[cite: 19].
+
+### **Certificaciones Clave**
+* [cite_start]🏆 **Implementador Líder ISO 27001**[cite: 25].
+* [cite_start]🏆 **Implementador Líder ISO 27.035 (Incident Management)**[cite: 26].
+* [cite_start]🏆 **Threat Intelligence & SOC Foundations**[cite: 28, 30].
+
+---
+
+## 💼 Experiencia Relevante
+
+| Periodo | Rol | Organización |
 | :--- | :--- | :--- |
-| **Magíster en Ciberseguridad** | Univ. Adolfo Ibáñez | Sistemas de Información y Seguridad |
-| **Magíster en Técnicas de Seg. Informática** | Univ. de Barcelona | Ciberseguridad Avanzada |
-| **Magíster en Ingeniería en Informática** | Univ. de La Frontera | Ingeniería de Software |
-| **Magíster en Planificación y Control de Gestión** | Universidad Mayor | Estrategia y Control Operativo |
-| **Ingeniero en Informática** | Univ. Católica de Temuco | Tecnologías de la Información |
-
-### 📜 Especializaciones Destacadas
-* **Hacking Ético** (Diplomado UAI - Nota: 6.7)
-* **Gestión de Ciberseguridad** (Diplomado UAI - Nota: 6.3)
-* **Gestión Técnica de Ciberseguridad** (Diplomado UC - Nota: 6.8)
-* **Gobierno y Gestión de Ciberseguridad** (Diplomado USACH)
-* **Ciberseguridad y Ciberdefensa** (Diplomado UA - Nota: 6.6)
+| **2023 - Pres.** | **CISO - Chief Information Security Officer** | [cite_start]**Dreams S.A. LATAM**  |
+| **2021 - Pres.** | **Consultor Senior en Ciberseguridad** | [cite_start]**RGIT SPA**  |
+| **2015 - 2020** | **Subgerente Corporativo de Sistemas** | [cite_start]**Dreams S.A.**  |
+| **2010 - 2014** | **Analista de Procesos y Sistemas** | [cite_start]**Clínica Alemana**  |
 
 ---
 
-## 💼 Experiencia Destacada
-
-### 🎰 **CISO - Dreams S.A.** *(2023 - Actualidad)*
-* Responsable de la seguridad de la información del holding líder en entretenimiento en LATAM.
-* Implementación de **ISO 27001**, gestión de incidentes y programas corporativos de concienciación.
-* Liderazgo en auditorías de seguridad y hacking ético preventivo.
-
-### ⚙️ **Subgerente Corporativo de Control y Gestión TIC - Dreams S.A.** *(2015 - 2020)*
-* Liderazgo de equipos de soporte físico y virtual en 4 países.
-* Diseño de planes de auditoría y políticas basadas en **ITIL**.
-* Desarrollo de software in-house para monitoreo de servicios y automatización de inventarios.
-
-### 🏥 **Analista de Procesos y Sistemas - Clínica Alemana** *(2010 - 2013)*
-* Creación del área de desarrollo desde cero.
-* Implementación de sistemas críticos (Intranet, Control Presupuestario, Gestión de Cobranza).
-* Despliegue de infraestructura Open Source (CentOS, BackupPC) para servicios de Imagenología.
+## 📝 Publicaciones & Docencia
+* [cite_start]📄 **Investigación:** *"Towards a Cybersecurity Awareness Plan for Casinos: An Initial Review for Internal Workers"* (ResearchGate)[cite: 33, 34].
+* [cite_start]👨‍🏫 **Docencia:** Diseño de carreras técnicas en Gestión de Servicios IT y cátedras de Seguridad Informática en CFT Teodoro Wickel[cite: 37, 39].
 
 ---
 
-## 🛠️ Stack Tecnológico & Skills
-
-### **Ciberseguridad & Gobierno**
-`ISO 27001` `Ethical Hacking` `Gestión de Riesgos` `Cumplimiento Normativo` `Continuidad de Negocio` `Ciberdefensa`
-
-### **Desarrollo & Automatización**
-`Python` `C# (.NET)` `JavaScript` `SQL Server` `n8n (Orquestación)` `APIs Integration`
-
-### **Infraestructura & QA**
-`Linux (CentOS/Ubuntu)` `Docker` `QA Automation` `Data Migration` `ITIL`
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
-
-## 📊 Estadísticas de GitHub
-![Estadísticas de Rodrigo](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 📧 Contacto & Networking
-* **Ubicación:** Temuco, Araucanía, Chile 🇨🇱 (Corporativo Dreams S.A.)
-* **Áreas de Interés:** Investigación en ciberseguridad, desarrollo de herramientas de automatización operativa, docencia universitaria.
-
----
-> *"La seguridad no es un producto, es un proceso continuo de adaptación y mejora."*
+[cite_start]📫 **Contacto:** [rguzman@outlook.com](mailto:rguzman@outlook.com) [cite: 4]

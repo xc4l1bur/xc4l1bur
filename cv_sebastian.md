@@ -1,112 +1,135 @@
-# 👨‍💻 Software Engineer (Early Career) | Backend & Cybersecurity
+<h1 align="center">Ingeniero de Software en Formación</h1>
+<p align="center">
+Backend · Ciberseguridad · Desarrollo Seguro
+</p>
 
-Ingeniero en formación con enfoque en desarrollo backend y ciberseguridad, orientado a la construcción de soluciones seguras, escalables y mantenibles. Experiencia práctica en el desarrollo de APIs, implementación de mecanismos de autenticación y trabajo en entornos Linux.
-
-Interesado en integrar buenas prácticas de desarrollo seguro (DevSecOps), automatización de procesos y diseño de arquitecturas modernas.
-
----
-
-## 🚀 Stack Tecnológico
-
-### 🧠 Lenguajes
-![Java](https://skillicons.dev/icons?i=java)
-![JS](https://skillicons.dev/icons?i=javascript)
-![Go](https://skillicons.dev/icons?i=go)
-![Rust](https://skillicons.dev/icons?i=rust)
+<p align="center">
+Perfil en formación con foco en desarrollo backend, diseño de APIs seguras y buenas prácticas de ingeniería.  
+Orientado a construir soluciones escalables integrando seguridad desde el diseño.
+</p>
 
 ---
 
-### ⚙️ Backend & Frameworks
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+## ⚡ Perfil Técnico
+
+<table>
+<tr>
+<td width="50%">
+
+**Especialización**
+- Desarrollo Backend (Spring Boot)
+- Seguridad en aplicaciones (JWT, control de acceso)
+- Diseño de APIs REST
+
+</td>
+
+<td width="50%">
+
+**Entorno de trabajo**
+- Linux & virtualización
+- Control de versiones (Git)
+- Contenerización básica (Docker)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗄️ Base de Datos
-![MySQL](https://skillicons.dev/icons?i=mysql)
+## 🧩 Stack Principal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,linux,docker" />
+</p>
+
+<p align="center">
+<sub>Java · Spring Boot · MySQL · Git · Linux · Docker</sub>
+</p>
 
 ---
 
-### 🔐 Ciberseguridad
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
+## 🧪 Experiencia Aplicada
 
-- Implementación de autenticación con JWT  
-- Uso de herramientas de pentesting en entornos controlados  
-- Técnicas básicas de OSINT  
-- Seguridad en aplicaciones web  
+<table>
+<tr>
+<td width="50%">
 
----
+### Backend – Sistema de denuncias
 
-### 🛠️ Herramientas & DevOps
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Docker](https://skillicons.dev/icons?i=docker)
-
-- Control de versiones distribuido  
-- Análisis de código con SonarQube  
-- Contenerización básica  
-- Flujo de desarrollo colaborativo  
-
----
-
-### 🎨 Frontend & Diseño (Soporte)
-![Vue](https://skillicons.dev/icons?i=vue)
-![Figma](https://skillicons.dev/icons?i=figma)
-
----
-
-## 🧪 Experiencia Destacada
-
-### 🔹 Backend Developer – Plataforma de denuncias anónimas
-- Desarrollo de API REST con Spring Boot  
-- Implementación de autenticación segura con JWT  
-- Optimización de consultas en base de datos MySQL  
+- API REST con Spring Boot  
+- Autenticación segura mediante JWT  
+- Optimización de consultas en base de datos  
 - Diseño orientado a escalabilidad  
 
+</td>
+
+<td width="50%">
+
+### Backend – Plataforma de reservas
+
+- Desarrollo de servicios backend  
+- Integración de seguridad en la aplicación  
+- Mejora de tiempos de respuesta  
+- Uso de testing y análisis de código  
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🔹 Backend Developer – Plataforma de reservas
-- Construcción de servicios backend con Spring  
-- Integración de renderizado dinámico  
-- Aplicación de buenas prácticas de seguridad  
-- Uso de herramientas de testing y análisis estático  
+## 🔐 Enfoque Profesional
 
----
+<table>
+<tr>
+<td>
 
-## ⚡ Enfoque Profesional
-
-- Desarrollo backend seguro  
-- Arquitectura de software escalable  
+- Desarrollo backend con foco en seguridad  
+- Integración de buenas prácticas (DevSecOps inicial)  
 - Automatización y mejora continua  
-- Integración de seguridad desde el diseño  
+- Construcción de soluciones mantenibles  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Áreas de Interés
+## 📊 Capacidades
 
-- Ciberseguridad aplicada  
-- DevSecOps  
-- Arquitectura de software  
-- Sistemas distribuidos  
+<table>
+<tr>
+<td width="50%">
 
----
+**Técnicas**
+- APIs REST  
+- Modelamiento de datos (MySQL)  
+- Seguridad en aplicaciones  
+- Análisis de código  
 
-## 🤝 Competencias
+</td>
 
+<td width="50%">
+
+**Profesionales**
 - Trabajo colaborativo  
-- Adaptabilidad al cambio  
+- Adaptabilidad  
 - Resolución de problemas  
 - Aprendizaje continuo  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌎 Idiomas
 
 - Español: Nativo  
-- Inglés: Competencia técnica  
+- Inglés: Lectura técnica  
 
 ---
 
-> 🚀 En constante evolución, con foco en construir soluciones robustas, seguras y alineadas a estándares de la industria.
+<p align="center">
+<sub>Perfil en desarrollo, orientado a entornos reales de ingeniería de software y ciberseguridad.</sub>
+</p>
